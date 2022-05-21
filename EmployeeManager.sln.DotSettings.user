@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4ccfeb16_002De374_002D4e10_002Da47e_002D2dd4028358f8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateEmployee_WithCorrectData_EmployeeIsCreatedSuccesfully" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::565F4814-ECED-47C2-A5D7-16E2F59F87C1::net6.0::UnitTests.Domain.EmployeeDomainTests.CreateEmployee_WithCorrectData_EmployeeIsCreatedSuccesfully&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::565F4814-ECED-47C2-A5D7-16E2F59F87C1::net6.0::UnitTests.Domain.EmployeeDomainTests.CreateEmployee_WithInCorrectData_EmployeeIsNotCreated_ThrowException&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::565F4814-ECED-47C2-A5D7-16E2F59F87C1::net6.0::UnitTests.Domain.EmployeeDomainTests.UpdateEmployee_WithCorrectData_EmployeeIsUpdatedSuccesfully&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::565F4814-ECED-47C2-A5D7-16E2F59F87C1::net6.0::UnitTests.Domain.EmployeeDomainTests.UpdateEmployee_WithIncorrectNewData_ThrowsAnException&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::565F4814-ECED-47C2-A5D7-16E2F59F87C1::net6.0::UnitTests.Domain.GenderValueObjectTests.GenderValueObject_IsCreatedWithMale_ReturnsMale&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::565F4814-ECED-47C2-A5D7-16E2F59F87C1::net6.0::UnitTests.Domain.GenderValueObjectTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::565F4814-ECED-47C2-A5D7-16E2F59F87C1::net6.0::UnitTests.Application.Handlers.CreateEmployeeCommandHandlerTests.CreateEmployeeCommandHandler_CreateEmployeeHandle_Return_CreatedEmployee&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
